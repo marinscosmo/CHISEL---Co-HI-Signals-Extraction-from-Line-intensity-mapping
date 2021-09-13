@@ -20,6 +20,7 @@ UCL  = University College London (UK)
 RU   = Rhodes University (South Africa)
  
 I'd like to thank Isabella Carucci and Jerome Bobin for send us your GMCA code used on MeerKAT analysis
+
 Necessary non-native python3 packages:
  - numpy >= 1.19.4
  - pandas >= 0.25.3
