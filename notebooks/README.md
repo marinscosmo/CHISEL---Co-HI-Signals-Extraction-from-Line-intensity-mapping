@@ -4,8 +4,8 @@ This code is a extension for the BINGO Telescope from
  - (fast)ICA (with scikit-learn code) methods
  
 It's a public code, but if you will use it I would like you to quote us:
- - Generalised Morphological Component Analysis applied to HI signals from Intensity Mapping - A. Marins et al
- - Different Component Separation Methods for BINGO Telescope - A. Marins et al 
+ - Generalised Morphological Component Analysis applied to HI signals from Intensity Mapping - A. Marins et al (in preparation)
+ - Different Component Separation Methods for BINGO Telescope - A. Marins et al (in preparation)
 It was create by 
  - Alessandro Marins (USP)
  - Julia Leite (USP)
@@ -31,15 +31,15 @@ Necessary non-native python3 packages:
  - mtneedlet >=0.0.5
  
 At the moment, this code contain:
- (1) Wavelet Transform:
-     (1.1) Identity Wavelet Transform
-     (1.2) Starlet on the Sphere (Isotropic Undecimated Wavelet Transform by Jean-Luc Starck)
-     (1.3) Axisymmetric Wavelet Transform on the Sphere (by Jason McEwen)
-     (1.4) PyWavelets = Python Package for Redundant Wavelet Transforms
-     (1.5) Needlets from MTNeedlet package (https://javicarron.github.io/mtneedlet/index.html)
- (2) Component Separation Method:
-     (2.1) Generalized Morphological Component Analysis (GMCA) by Jerome Bobin and Isabella Carucci
-     (2.2) Fast Independent Component Analysis (FastICA) by Scikit-Learn python package
+ - (1) Wavelet Transform:
+     - (1.1) Identity Wavelet Transform
+     - (1.2) Starlet on the Sphere (Isotropic Undecimated Wavelet Transform by Jean-Luc Starck)
+     - (1.3) Axisymmetric Wavelet Transform on the Sphere (by Jason McEwen)
+     - (1.4) PyWavelets = Python Package for Redundant Wavelet Transforms
+     - (1.5) Needlets from MTNeedlet package (https://javicarron.github.io/mtneedlet/index.html)
+ - (2) Component Separation Method:
+     - (2.1) Generalized Morphological Component Analysis (GMCA) by Jerome Bobin and Isabella Carucci
+     - (2.2) Fast Independent Component Analysis (FastICA) by Scikit-Learn python package
      
 Last update: July/21/2021
 If you have any questions about that, please contact us:
