@@ -13,6 +13,7 @@ It was create by
  - Luiz Henrique Freitas Assis (USP)
  - Karin Fornazier (USP and INPE)
  - Filipe Abdalla (UCL, USP, INPE and RU)
+
 USP  = Universidade de Sao Paulo (Brazil)
 INPE = Instituto Nacional de Pesquisas Espaciais (Brazil)
 UCL  = University College London (UK)
