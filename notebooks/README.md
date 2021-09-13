@@ -6,6 +6,7 @@ This code is a extension for the BINGO Telescope from
 It's a public code, but if you will use it I would like you to quote us:
  - Generalised Morphological Component Analysis applied to HI signals from Intensity Mapping - A. Marins et al (in preparation)
  - Different Component Separation Methods for BINGO Telescope - A. Marins et al (in preparation)
+ 
 It was create by 
  - Alessandro Marins (USP)
  - Julia Leite (USP)
