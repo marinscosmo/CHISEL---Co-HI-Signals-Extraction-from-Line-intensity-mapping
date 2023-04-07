@@ -9,9 +9,6 @@ It's a public code, but if you will use it I would like you to quote us:
  
 It was create by 
  - Alessandro Marins (USP)
- - Julia Leite (USP)
- - Luiz Henrique Freitas Assis (USP)
- - Karin Fornazier (USP and INPE)
  - Filipe Abdalla (UCL, USP, INPE and RU)
 
 USP  = Universidade de Sao Paulo (Brazil)
