@@ -47,8 +47,4 @@ At the moment, this code contain:
 Last update: July/21/2021
 If you have any questions about that, please contact us:
  - alessandro.marins@usp.br
- - karin.fornazier@gmail.com
- - filipe.abdalla@gmail.com
- - julialeite.carvalho@usp.br
- - luiz.henrique.assis@usp.br
 
